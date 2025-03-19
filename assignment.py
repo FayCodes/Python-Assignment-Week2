@@ -25,6 +25,3 @@ index_of_30 = my_list.index(30)
 # Print the final list and index of 30
 print("Final list:", my_list)
 print("Index of 30:", index_of_30)
- 
- Output 
- Final list: [10, 15, 20, 30, 50, 60]
